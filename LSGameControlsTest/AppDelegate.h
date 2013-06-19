@@ -1,9 +1,9 @@
 //
 //  AppDelegate.h
-//  LSGameControlsTest
+//  YetiGameControlsTest
 //
-//  Created by Yeti on 19/06/2013.
-//  Copyright __MyCompanyName__ 2013. All rights reserved.
+//  Created by Yeti on 19/09/2012.
+//  Copyright __MyCompanyName__ 2012. All rights reserved.
 //
 
 #import <UIKit/UIKit.h>
@@ -13,7 +13,7 @@
 {
 	UIWindow *window_;
 	UINavigationController *navController_;
-
+    
 	CCDirectorIOS	*director_;							// weak ref
 }
 
