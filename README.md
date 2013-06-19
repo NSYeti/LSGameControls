@@ -28,3 +28,9 @@ Getting Started
 ---------------
 
 An Xcode project titled 'LSGameControlsTest' is included with examples for the most common usage scenarios. See ControlsTest.h and ControlsTest.m in particular.
+
+
+Additional Notes
+----------------
+
+Main source code files for the library are located in 'LSGameControlsTest/libs/LSGameControls'
